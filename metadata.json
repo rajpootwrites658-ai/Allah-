@@ -1,0 +1,7 @@
+{
+  "name": "Voice Changer",
+  "description": "Clean and focused voice changer with natural voice options, real-time microphone effects, and quick sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
